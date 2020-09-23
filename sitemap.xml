@@ -9,13 +9,6 @@
   </url>
   
   <url>
-    <loc>http://blog.leospace.cn/about/index.html</loc>
-    
-    <lastmod>2020-08-15T17:33:22.518Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://blog.leospace.cn/categories/index.html</loc>
     
     <lastmod>2020-08-15T17:33:22.518Z</lastmod>
@@ -23,7 +16,7 @@
   </url>
   
   <url>
-    <loc>http://blog.leospace.cn/message/index.html</loc>
+    <loc>http://blog.leospace.cn/about/index.html</loc>
     
     <lastmod>2020-08-15T17:33:22.518Z</lastmod>
     
@@ -31,6 +24,13 @@
   
   <url>
     <loc>http://blog.leospace.cn/tags/index.html</loc>
+    
+    <lastmod>2020-08-15T17:33:22.518Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.leospace.cn/message/index.html</loc>
     
     <lastmod>2020-08-15T17:33:22.518Z</lastmod>
     
